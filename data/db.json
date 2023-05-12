@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "title": "My new Website", 
+            "body": "lorem ipsum...", 
+            "author": "Mario", 
+            "id": 1 
+        }, 
+        {
+            "title": "My First Blog", 
+            "body": "lorem ipsum...", 
+            "author": "Marco", 
+            "id": 2
+        },
+        {
+            "title": "Welcome Party", 
+            "body": "lorem ipsum...", 
+            "author": "Luigi", 
+            "id": 3
+        },
+        {
+            "title": "Why i hate CSS", 
+            "body": "lorem ipsum...", 
+            "author": "Four", 
+            "id": 4 
+        }
+    ]
+}

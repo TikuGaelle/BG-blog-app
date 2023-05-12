@@ -54,6 +54,22 @@
   font-size: 24px;
   color: teal;
 }
+.loading-spinner{
+  margin-right: auto;
+  font-size: 75px;
+  font-weight: bold;
+  color: teal;
+}
+.error-alert{
+  color: orangered;
+  font-size: 20px;
+  width: fit-content;
+  height: max-content;
+  background: #fff;
+  border-radius: 10px;
+  padding: 5px;
+  border: 2px solid;
+}
 /* .blog-preview:hover{
   
 } */
